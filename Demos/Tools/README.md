@@ -75,8 +75,3 @@ CVP.SOMEPARAM = {
 }
 ```
 
-
-
-## Class extend
-
-#### Measurement
