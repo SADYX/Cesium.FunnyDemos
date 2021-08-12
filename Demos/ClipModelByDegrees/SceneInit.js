@@ -16,4 +16,3 @@ tileset.readyPromise.then(function (tileset) {
         { longitude: -75.611471244, latitude: 40.04310531, sequence: 3 }
     ]);
 });
-
