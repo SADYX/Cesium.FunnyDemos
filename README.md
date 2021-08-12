@@ -18,3 +18,11 @@
 
 ![image](https://github.com/YYYY-CASUAL/Cesium.FunnyDemos/blob/master/Assets/ClipModelByDegrees.png)
 
+
+
+2021/8/12
+
+更新了 根据GeoJson随机打均匀点 Demos/DrawRandomPointsByGeoJson
+
+![image](https://github.com/SADYX/Cesium.FunnyDemos/blob/master/Assets/randomPoints.png)
+
