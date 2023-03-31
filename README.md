@@ -1,8 +1,5 @@
 
-# Cesium.FunnyDemos   <br>  *(Update By mood)*
-
-*开发随记* [*Blogs*](https://github.com/SADYX/Blogs)
-
+# Cesium.FunnyDemos 
 
 2021/6/3
 更新了 游戏控制模拟 Demos/GameSimulation
